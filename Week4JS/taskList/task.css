@@ -1,0 +1,12 @@
+#TaskList {
+    width: 50vw;
+    height: 50vw;
+    border: 1px solid black;
+}
+#TaskListName {
+    width: 100%;
+    font-size: 24pt;
+    text-align: center;
+    color: red;
+    font-weight: bold;
+}
